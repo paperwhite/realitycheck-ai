@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If RealityCheck AI supports your work, please cite this repository."
+title: "RealityCheck AI: Reproducible Robustness Testing for Computer Vision"
+authors:
+  - family-names: Singh
+    given-names: Shibani
+repository-code: "https://github.com/paperwhite/realitycheck-ai"
+url: "https://github.com/paperwhite/realitycheck-ai"
+license: Apache-2.0
