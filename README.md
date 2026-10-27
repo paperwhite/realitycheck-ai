@@ -1,4 +1,5 @@
-RealityCheck AI
+RealityCheck AI 
+
 Break your AI model before reality does.
 
 Computer vision models can look great on a benchmark and still miss something important when the lighting changes, an object is partly hidden, or a frame gets blurry. RealityCheck AI is an experiment in making those weak spots easier to find, reproduce, and understand.
