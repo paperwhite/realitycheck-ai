@@ -1,0 +1,234 @@
+[
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "0"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "0"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "1"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "1"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "2"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "2"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "3"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "3"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "4"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "4"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "5"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "5"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "6"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "6"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "7"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "7"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "8"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "8"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "9"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "9"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "10"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "10"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "11"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "11"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "12"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "12"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "13"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "13"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "14"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "14"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "15"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "15"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "16"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "16"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "17"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "17"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "18"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "18"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "19"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "19"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "20"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "20"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "21"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "21"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "22"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "22"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "23"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "23"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "24"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "24"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "25"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "25"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "26"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "26"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "27"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "27"
+  },
+  {
+    "type": "SegmentationBoxRecord",
+    "object_id": "28"
+  },
+  {
+    "type": "SegmentationMaskRecord",
+    "object_id": "28"
+  }
+]
