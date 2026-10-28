@@ -1,0 +1,321 @@
+[
+  {
+    "object_id": "0",
+    "bounds": [
+      588,
+      60,
+      613,
+      99
+    ],
+    "mask_width": 25,
+    "mask_height": 39
+  },
+  {
+    "object_id": "1",
+    "bounds": [
+      288,
+      67,
+      314,
+      119
+    ],
+    "mask_width": 26,
+    "mask_height": 52
+  },
+  {
+    "object_id": "2",
+    "bounds": [
+      70,
+      53,
+      93,
+      106
+    ],
+    "mask_width": 23,
+    "mask_height": 53
+  },
+  {
+    "object_id": "3",
+    "bounds": [
+      376,
+      65,
+      398,
+      104
+    ],
+    "mask_width": 22,
+    "mask_height": 39
+  },
+  {
+    "object_id": "4",
+    "bounds": [
+      433,
+      68,
+      483,
+      177
+    ],
+    "mask_width": 50,
+    "mask_height": 109
+  },
+  {
+    "object_id": "5",
+    "bounds": [
+      131,
+      67,
+      164,
+      102
+    ],
+    "mask_width": 33,
+    "mask_height": 35
+  },
+  {
+    "object_id": "6",
+    "bounds": [
+      199,
+      49,
+      222,
+      84
+    ],
+    "mask_width": 23,
+    "mask_height": 35
+  },
+  {
+    "object_id": "7",
+    "bounds": [
+      207,
+      59,
+      267,
+      138
+    ],
+    "mask_width": 60,
+    "mask_height": 79
+  },
+  {
+    "object_id": "8",
+    "bounds": [
+      273,
+      69,
+      295,
+      99
+    ],
+    "mask_width": 22,
+    "mask_height": 30
+  },
+  {
+    "object_id": "9",
+    "bounds": [
+      189,
+      56,
+      200,
+      86
+    ],
+    "mask_width": 11,
+    "mask_height": 30
+  },
+  {
+    "object_id": "10",
+    "bounds": [
+      101,
+      53,
+      115,
+      98
+    ],
+    "mask_width": 14,
+    "mask_height": 45
+  },
+  {
+    "object_id": "11",
+    "bounds": [
+      190,
+      67,
+      224,
+      162
+    ],
+    "mask_width": 34,
+    "mask_height": 95
+  },
+  {
+    "object_id": "12",
+    "bounds": [
+      501,
+      45,
+      520,
+      71
+    ],
+    "mask_width": 19,
+    "mask_height": 26
+  },
+  {
+    "object_id": "13",
+    "bounds": [
+      343,
+      66,
+      378,
+      132
+    ],
+    "mask_width": 35,
+    "mask_height": 66
+  },
+  {
+    "object_id": "14",
+    "bounds": [
+      522,
+      68,
+      545,
+      113
+    ],
+    "mask_width": 23,
+    "mask_height": 45
+  },
+  {
+    "object_id": "15",
+    "bounds": [
+      258,
+      54,
+      276,
+      85
+    ],
+    "mask_width": 18,
+    "mask_height": 31
+  },
+  {
+    "object_id": "16",
+    "bounds": [
+      228,
+      64,
+      241,
+      96
+    ],
+    "mask_width": 13,
+    "mask_height": 32
+  },
+  {
+    "object_id": "17",
+    "bounds": [
+      156,
+      52,
+      175,
+      97
+    ],
+    "mask_width": 19,
+    "mask_height": 45
+  },
+  {
+    "object_id": "18",
+    "bounds": [
+      166,
+      72,
+      196,
+      124
+    ],
+    "mask_width": 30,
+    "mask_height": 52
+  },
+  {
+    "object_id": "19",
+    "bounds": [
+      478,
+      61,
+      502,
+      105
+    ],
+    "mask_width": 24,
+    "mask_height": 44
+  },
+  {
+    "object_id": "20",
+    "bounds": [
+      612,
+      66,
+      632,
+      101
+    ],
+    "mask_width": 20,
+    "mask_height": 35
+  },
+  {
+    "object_id": "21",
+    "bounds": [
+      277,
+      63,
+      344,
+      176
+    ],
+    "mask_width": 67,
+    "mask_height": 113
+  },
+  {
+    "object_id": "22",
+    "bounds": [
+      392,
+      55,
+      417,
+      97
+    ],
+    "mask_width": 25,
+    "mask_height": 42
+  },
+  {
+    "object_id": "23",
+    "bounds": [
+      279,
+      36,
+      324,
+      67
+    ],
+    "mask_width": 45,
+    "mask_height": 31
+  },
+  {
+    "object_id": "24",
+    "bounds": [
+      436,
+      68,
+      458,
+      110
+    ],
+    "mask_width": 22,
+    "mask_height": 42
+  },
+  {
+    "object_id": "25",
+    "bounds": [
+      333,
+      38,
+      369,
+      100
+    ],
+    "mask_width": 36,
+    "mask_height": 62
+  },
+  {
+    "object_id": "26",
+    "bounds": [
+      454,
+      64,
+      471,
+      97
+    ],
+    "mask_width": 17,
+    "mask_height": 33
+  },
+  {
+    "object_id": "27",
+    "bounds": [
+      420,
+      69,
+      437,
+      98
+    ],
+    "mask_width": 17,
+    "mask_height": 29
+  },
+  {
+    "object_id": "28",
+    "bounds": [
+      495,
+      59,
+      525,
+      109
+    ],
+    "mask_width": 30,
+    "mask_height": 50
+  }
+]
