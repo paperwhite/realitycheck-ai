@@ -3,6 +3,11 @@ import sys
 
 from PIL import Image, ImageEnhance
 from ultralytics import YOLO
+import json
+from realitycheck.evaluate import (
+    extract_detections,
+    compare_detections,
+)
 
 image_path = Path(sys.argv[1])
 
@@ -20,6 +25,8 @@ darkened = ImageEnhance.Brightness(original).enhance(0.6)
 darkened_path = output_dir / "darkened.jpg"
 darkened.save(darkened_path, quality=95)
 
+predictions = {}
+
 for label, image in [
     ("baseline", original),
     ("brightness_0_6", darkened),
@@ -33,6 +40,7 @@ for label, image in [
     )
 
     result = results[0]
+    predictions[label] = extract_detections(result)
 
     print(f"\n{label}")
     print("Detections:", len(result.boxes))
@@ -50,3 +58,36 @@ for label, image in [
     annotated.save(output_dir / f"{label}.png")
 
 print("\nSaved outputs to:", output_dir)
+
+report = compare_detections(
+    predictions["baseline"],
+    predictions["brightness_0_6"],
+    iou_threshold=0.5,
+)
+
+report_path = output_dir / "robustness_report.json"
+
+report_path.write_text(json.dumps(report, indent=2))
+
+print("\n=== ROBUSTNESS REPORT ===")
+print("Baseline detections:", report["baseline_count"])
+print("Perturbed detections:", report["perturbed_count"])
+print("Matched:", report["matched_count"])
+print("Lost:", report["lost_count"])
+print("New:", report["new_count"])
+
+persistence = report["detection_persistence"]
+
+if persistence is not None:
+    print(f"Detection persistence: {persistence:.1%}")
+else:
+    print("Detection persistence: N/A (no baseline detections)")
+
+delta = report["mean_confidence_delta"]
+
+if delta is not None:
+    print(f"Mean confidence change: {delta:+.3f}")
+else:
+    print("Mean confidence change: N/A (no matches)")
+
+print("Report saved:", report_path)
